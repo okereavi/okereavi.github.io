@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okereavi.github.io/JGR/sitemap_index.txt
+Sitemap: https://okereavi.github.io/VqP/sitemap_index.txt
+Sitemap: https://okereavi.github.io/ftY/sitemap_index.txt
+Sitemap: https://okereavi.github.io/oSv/sitemap_index.txt
